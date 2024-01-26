@@ -52,6 +52,3 @@ The data cleaning process involves several SQL queries:
 - Automate the data cleaning process for new data imports.
 - Expand the dataset to include additional relevant features for comprehensive analysis.
 
----
-
-This README provides a clear overview of your project, the steps involved in the data cleaning process, and the end goals. Adapt or expand any section to suit the specific details and scope of your project.
